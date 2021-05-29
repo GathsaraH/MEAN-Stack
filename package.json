@@ -1,0 +1,19 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "mean staack",
+  "main": "index.js",
+  "scripts": {
+    "test": "mean staack"
+  },
+  "keywords": [
+    "mean",
+    "staack"
+  ],
+  "author": "Gathsaara Umesh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12"
+  }
+}
